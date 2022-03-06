@@ -120,4 +120,4 @@ Diccionario del conjunto de datos.
     </tr>
 </table>
 
-<b>Nota:</b> trabajo en proceso, el diccionario de datos podría variar en función de nuevos requerimientos o descubrimiento de nuevas características que se consideren relevantes.
+<b>Nota:</b> <em>trabajo en proceso, el diccionario de datos podría variar en función de nuevos requerimientos o descubrimiento de nuevas características que se consideren relevantes.</em>
