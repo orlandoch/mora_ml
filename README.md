@@ -1,8 +1,14 @@
 # Morosidad de clientes.
+
+[Ver presentación](https://github.com/orlandoch/mora_ml/blob/main/mora-ml.pdf)
+
+[Ver Notebook](https://github.com/orlandoch/mora_ml/blob/main/main.ipynb)
+
 En este proyecto se aplicarán técnicas de aprendizaje automático, tanto supervisado como no supervisado, para predecir y analizar la morosidad de clientes.
 
 El conjunto de datos está basada en los datos reales de una empresa proveedora de servicio de Internet.
 Los datos han sido previamente anonimizados y escalados, con el fin de preservar la identidad de clientes, así como proteger la información sensible.
+
 
 Diccionario del conjunto de datos.
 <table>
